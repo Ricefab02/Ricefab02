@@ -7,7 +7,7 @@ l'automatisation de leurs tâches quotidiennes.
 
 **No-Code • Automatisation • Intelligence Artificielle • n8n**
 
-### 🔧 FROGERS
+### 🔧FROGERS — Automatisation • IA • No-Code
 
 Mon objectif : créer des solutions simples et adaptées aux petites
 entreprises pour automatiser leurs tâches répétitives et connecter
