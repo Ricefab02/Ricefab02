@@ -24,9 +24,11 @@ Des solutions simples et adaptées aux petites entreprises :
 **Product Builder No-Code — RNCP39108, Niveau 6**
 
 Bloc de compétences **BC03 acquis à l'École Cube** :
-📄 [Voir mon attestation BC03](./Attestation%20de%20blocs%20de%20comp%C3%A9tences.pdf)
+
 > Concevoir, configurer et paramétrer les outils métiers dans le cadre
 > d'un projet de solution No-Code.
+
+📄 [Voir mon attestation BC03](./Attestation%20de%20blocs%20de%20comp%C3%A9tences.pdf)
 
 ### Wild Code School — 2020
 
