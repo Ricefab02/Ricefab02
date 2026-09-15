@@ -21,9 +21,10 @@ Des solutions simples et adaptées aux petites entreprises :
 
 ### École Cube — 2026
 
-**RNCP39108 — Product Builder No-Code — Niveau 6**
+**Product Builder No-Code — RNCP39108, Niveau 6**
 
-Bloc de compétences **BC03 acquis** :
+Bloc de compétences **BC03 acquis à l'École Cube** :
+📄 [Voir l'attestation BC03](./certifications/Attestation-BC03-Product-Builder-No-Code.pdf)
 
 > Concevoir, configurer et paramétrer les outils métiers dans le cadre
 > d'un projet de solution No-Code.
@@ -36,11 +37,16 @@ Formation en développement Web :
 
 ## 💻 Quelques projets de ma formation Web
 
-### ⚔️ [GitHub Fighters](https://github.com/WildCodeSchool/reims-0320-js-github-fighters)
-Projet JavaScript réalisé durant ma formation Wild Code School.
-
-### 🍷 [Tonton Sommelier](https://github.com/WildCodeSchool/reims-js-202003-pjt-tonton-sommelier-client)
+### 🍷 Tonton Sommelier
 Projet de fin de formation réalisé en équipe pour un **client réel**.
 
+Application complète avec **front-end React** et **back-end JavaScript / SQL**.
+
+- 🖥️ [Front-end](https://github.com/WildCodeSchool/reims-js-202003-pjt-tonton-sommelier-client)
+- ⚙️ [Back-end](https://github.com/WildCodeSchool/reims-js-202003-pjt-tonton-sommelier)
+  
 ### 📷 [WhereCam](https://github.com/WildCodeSchool/reims-0320-js-wherecam)
 Projet JavaScript réalisé en équipe durant ma formation.
+
+### ⚔️ [GitHub Fighters](https://github.com/WildCodeSchool/reims-0320-js-github-fighters)
+Projet JavaScript réalisé durant ma formation Wild Code School.
