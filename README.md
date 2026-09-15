@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo-frogers.png" alt="FROGERS" width="500">
+</p>
+
 # 👋 Bonjour, je suis Fabrice
 
 ## 🚀 Fondateur de FROGERS
