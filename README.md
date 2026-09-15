@@ -36,11 +36,11 @@ Formation en développement Web :
 
 ## 💻 Quelques projets de ma formation Web
 
-### ⚔️ GitHub Fighters
+### ⚔️ [GitHub Fighters](https://github.com/WildCodeSchool/reims-0320-js-github-fighters)
 Projet JavaScript réalisé durant ma formation Wild Code School.
 
-### 🍷 Tonton Sommelier
+### 🍷 [Tonton Sommelier](https://github.com/WildCodeSchool/reims-js-202003-pjt-tonton-sommelier-client)
 Projet de fin de formation réalisé en équipe pour un **client réel**.
 
-### 📷 WhereCam
+### 📷 [WhereCam](https://github.com/WildCodeSchool/reims-0320-js-wherecam)
 Projet JavaScript réalisé en équipe durant ma formation.
