@@ -1,17 +1,15 @@
 # 👋 Bonjour, je suis Fabrice
 
-## 🚀 Founder @ FROGERS
+## 🚀 Fondateur de FROGERS
+
+**No-Code • Automatisation • Intelligence Artificielle • n8n**
 
 J'accompagne les artisans et TPE dans la simplification et
 l'automatisation de leurs tâches quotidiennes.
 
-**No-Code • Automatisation • Intelligence Artificielle • n8n**
+### 🔧 FROGERS
 
-### 🔧FROGERS — Automatisation • IA • No-Code
-
-Mon objectif : créer des solutions simples et adaptées aux petites
-entreprises pour automatiser leurs tâches répétitives et connecter
-leurs différents outils.
+Des solutions simples et adaptées aux petites entreprises :
 
 - Automatisation de processus
 - Workflows n8n
@@ -45,12 +43,4 @@ Projet JavaScript réalisé durant ma formation Wild Code School.
 Projet de fin de formation réalisé en équipe pour un **client réel**.
 
 ### 📷 WhereCam
-Projet JavaScript réalisé en équipe durant la formation.
-
----
-
-### Aujourd'hui
-
-Je combine mon expérience du développement Web avec le **No-Code,
-l'automatisation et l'IA** pour développer FROGERS et créer des
-solutions adaptées aux besoins concrets des artisans et TPE.
+Projet JavaScript réalisé en équipe durant ma formation.
